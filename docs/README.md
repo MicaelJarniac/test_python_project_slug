@@ -88,7 +88,11 @@ pip install git+git://github.com/MicaelJarniac/test_python_project_slug
 For more examples, see the [full documentation][docs].
 
 ```python
-from test_python_project_slug import test_python_project_slug
+from test_python_project_slug import make_greeting
+
+
+print(make_greeting("Foo"))
+# Hello, Foo. Welcome to your new project!
 ```
 
 ## Contributing
