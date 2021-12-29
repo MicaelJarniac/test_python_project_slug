@@ -1,0 +1,3 @@
+Test Python Project Name
+test_python_project_slug
+test-python-project-dist
